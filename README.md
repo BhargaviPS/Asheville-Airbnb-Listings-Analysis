@@ -44,7 +44,7 @@ The analysis was performed in **Python**, mainly using:
 - `numpy` – for numerical computation  
 - `matplotlib` and `seaborn` – for visualization  
 
-The jupyter notebook is attacched for reproducibility.
+The jupyter notebook is attached for reproducibility.
 
 ---
 
@@ -137,6 +137,6 @@ If you'd like to connect, collaborate, or discuss this project further:
 
 🧠 GitHub Profile: [Mathias Ofosu](https://github.com/MKOfosu)
 
- Twitter/X: [Mathias Ofosu](https://x.com/MKOfosu)
+💼 Twitter/X: [Mathias Ofosu](https://x.com/MKOfosu)
 
 Feel free to reach out. I’m always open to data-driven conversations.
